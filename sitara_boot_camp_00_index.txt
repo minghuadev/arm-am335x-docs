@@ -1,0 +1,34 @@
+
+www.ti.com/lsds/ti/arm/training/OLT312000.page
+Sitara ARM Proceessors Boot Camp
+
+
+To help explore infinite design possibilities with TI Sitara™ ARM® 
+Processors, Texas Instruments has created the Sitara ARM Processors 
+Boot Camp. This modular training series for TI’s Sitara ARM Processors 
+is based on the latest development kits from TI and provides in-depth 
+technical discussion and hands-on exercises for all aspects of 
+the solution; from architecture to peripherals to software and 
+development environments. Each module in the Sitara ARM Processors 
+Boot Camp reviews the features, mechanics, and resources of their 
+respective topics, making it easy to focus on the training topics 
+most relevant to your current design challenge.
+
+The Sitara ARM Processors Boot Camp is provided under the terms of 
+the Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0): 
+http://creativecommons.org/licenses/by-sa/3.0/us/legalcode
+
+Session Titles
+
+    Introduction to the Sitara Linux SDK
+    Hands-on with the Sitara Linux SDK
+    Giving Linux the Boot
+ 4  Optimizing Linux Boot Time
+    Introduction to the Linux Init Scripts
+    Linux Qt Graphical User Interface (GUI) Development
+    ARM based multimedia using GStreamer & FFmpeg
+ 8  Linux Cryptography overview and How-to’s using OpenSSL
+ 9  Linux Power Management Overview and Hands-on
+ 10  U-boot/Linux Kernel Board Port
+ 11  U-Boot and Linux Kernel Debug using CCSv5
+
